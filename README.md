@@ -4,7 +4,6 @@ Outline of the project for Unit 1 using HTML, CSS &amp; JavaScript
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![screencapture-127-0-0-1-5501-2021-10-14-16_20_26](https://user-images.githubusercontent.com/63668672/137325603-26533686-071a-45a0-8239-2dec3ef6daab.png)
 
 We are going for it! First project for the course, the task is simple enough. Build a website using everything we have learned in this unit. Try to take advantaje of the homework assignments that you have done yourself in the past to be able to apply some functionality for it.
 
