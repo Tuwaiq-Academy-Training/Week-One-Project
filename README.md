@@ -15,7 +15,6 @@ Here are the requirements:
 * There needs to be a plan before hand that needs to be aproved by your instructor.
 * The use of Bootstrap .
 * you have use API
-* عسث
 
 ## Roadmap
 
