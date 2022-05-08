@@ -22,6 +22,8 @@ Here are the requirements:
 - [] Start with your html layout, from big sections to small sections.
 - [] Conect to the API and do a fetch request.
 - [] Display the information from your API on your webpage
+- Web storage API
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -35,6 +37,8 @@ Here are the requirements:
 * يجب عليك تطبيق مبادئ DRY دائما (Don’t repeat yourself)
 * يجب عليك استخدام Bootstrap .
 * يجب عليك استخدام API
+* يجب عليك استخدام Web storage API
+
 ## الخطوات الرئيسية
 * انشاء GitHup repo
 * قم بإنشاء مجلد وملفات لمشروعك. على سبيل المثال ملفات (index.html ، style.css ، javascript.js ومجلد الصور وما إلى ذلك )
