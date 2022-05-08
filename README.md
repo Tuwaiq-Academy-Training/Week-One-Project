@@ -34,10 +34,10 @@ Here are the requirements:
 
 ## المتطلبات :
 * قم باختيار مشروع يحل مشكلة  حقيقية ويساعد الآخرين.
-* يجب عليك تطبيق مبادئ DRY دائما (Don’t repeat yourself)
-* يجب عليك استخدام Bootstrap .
-* يجب عليك استخدام API
-* يجب عليك استخدام Web storage API
+* تطبيق مبادئ DRY دائما (Don’t repeat yourself)
+* استخدام Bootstrap .
+* استخدام API
+* استخدام Web storage API
 
 ## الخطوات الرئيسية
 * انشاء GitHup repo
