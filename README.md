@@ -12,7 +12,6 @@ Here are the requirements:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others.
 * You should implement DRY principles for the rest of your life :smile:
 * As a user you have to be able to navigate some information and display it.
-* There needs to be a plan before hand that needs to be aproved by your instructor.
 * The use of Bootstrap .
 * you have use API
 
@@ -34,7 +33,6 @@ Here are the requirements:
 ## المتطلبات :
 * قم باختيار مشروع يحل مشكلة  حقيقية ويساعد الآخرين.
 * يجب عليك تطبيق مبادئ DRY دائما (Don’t repeat yourself)
-* قبل أن تبدأ في المشروع يجب أولا أن تأخذ الموافقة من المدرب على فكرة مشروعك
 * يجب عليك استخدام Bootstrap .
 * يجب عليك استخدام API
 ## الخطوات الرئيسية
